@@ -1,6 +1,20 @@
 # Eine-Ordnung
 papers als beweis
 
+Legal Notice – Conceptual Research Disclaimer
+
+This repository contains purely theoretical and conceptual research.
+All documents, models, and frameworks presented here are scientific ideas, hypotheses, and conceptual structures and do not represent concrete technical inventions or implementations.
+
+According to patent law, ideas, theories, and abstract models cannot be patented. Only specific, concrete technical applications or devices may qualify for patent protection.
+Therefore, the contents of this repository remain free to use, explore, and develop under the terms of the Creative Commons BY-NC 4.0 License
+.
+
+Any future technical implementations inspired by these ideas are separate and independent works and do not affect the open and unrestricted nature of the research presented here.
+
+© 2025 Francesco Schauer Licensed under CC BY-NC 4.0 – Released as open conceptual research.
+
+
 Axiomatik eines resonanten Feldmodells von Wirklichkeit
 Axiom 1 – Realität ist Feldprozess
 
