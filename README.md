@@ -1,6 +1,8 @@
 # Eine-Ordnung
 papers als beweis
 
+READ PositionStatement.md
+
 Legal Notice – Conceptual Research Disclaimer
 
 This repository contains purely theoretical and conceptual research.
