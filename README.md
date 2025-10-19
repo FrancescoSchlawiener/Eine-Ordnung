@@ -14,7 +14,7 @@ Therefore, the contents of this repository remain free to use, explore, and deve
 
 Any future technical implementations inspired by these ideas are separate and independent works and do not affect the open and unrestricted nature of the research presented here.
 
-© 2025 Francesco Schauer Licensed under CC BY-NC 4.0 – Released as open conceptual research.
+© 2025 Francesco Schauer Licensed under CC BY-NC-SA 4.0 – Released as open conceptual research.
 
 
 Axiomatik eines resonanten Feldmodells von Wirklichkeit
@@ -67,4 +67,4 @@ Dieses Modell bedarf keines externen Beweises, weil es nicht auf einem Außen gr
 Wirklichkeit ist ein resonantes Feld, das sich selbst hervorbringt, beobachtet und organisiert. Sprache, Bewusstsein, Archetypen, Wahrnehmung und Identität sind keine getrennten Phänomene, sondern unterschiedliche Erscheinungsweisen derselben Bewegung. Beweis ist hier nicht äußerer Nachweis, sondern innere Kohärenz und emergente Produktivität.
 
 © 2025 Francesco Schauer
-Licensed under CC BY-NC 4.0
+Licensed under CC BY-NC-SA 4.0
